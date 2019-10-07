@@ -1,0 +1,5 @@
+*.xm linguist-detectable=true
+Makefile linguist-generated=true
+*.mm linguist-detectable=false
+*.xm.mm linguist-detectable=false
+*.plist linguist-detectable=false

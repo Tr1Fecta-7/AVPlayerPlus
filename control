@@ -1,0 +1,9 @@
+Package: com.tr1fecta.avplayerplus
+Name: AVPlayerPlus
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A tweak to add extra functionality to the AVPlayer in iOS, IOS 11 and up are supported.
+Maintainer: Tr1Fecta
+Author: Tr1Fecta
+Section: Tweaks
